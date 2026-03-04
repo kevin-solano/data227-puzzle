@@ -1,0 +1,3 @@
+PUZZLE.txt contains a misspelled word, find that word
+PUZZLE.txt also contains a key, 9-digit integer
+
